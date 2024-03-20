@@ -1,5 +1,8 @@
 # React + Vite
 
+Custom hooks made by Minin
+See website https://usehooks.com
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
